@@ -1,0 +1,12 @@
+body {
+    background-color: yellowgreen;
+}
+.bird {
+    width:3%;
+    height:5%;
+}
+.heading {
+    background-color: rgb(28, 201, 46);
+}.btn btn-danger {
+    margin-right:90%;
+}
